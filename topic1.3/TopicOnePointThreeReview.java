@@ -34,8 +34,8 @@ public class TopicOnePointThreeReview {
     public static void main(String[] args) {
 
         /*
-         * Declare double variables named x and y. Assign x the value 1.0 Assign y the
-         * value 2.0
+         * Declare double variables named x and y. Initialize x to the value 1.0.
+         * Initialize y the value 2.0
          */
 
         // Trace the next line of code in your journal BEFORE you run the code.
@@ -45,8 +45,8 @@ public class TopicOnePointThreeReview {
         // Was your answer correct? If not, re-trace the code from scratch.
 
         /*
-         * Declare int variables named a and b. Assign a the value 2. Assign b the value
-         * -1.
+         * Declare int variables named a and b. Initialize a to the value 2. Initialize
+         * b to the value -1.
          */
 
         // Trace the next line of code in your journal BEFORE you run the code.
@@ -54,14 +54,6 @@ public class TopicOnePointThreeReview {
         // int c = ((a * 9) + ((8 % 3) / b));
         // System.out.println(c);
         // Was your answer correct? If not, re-trace the code from scratch.
-
-        /*
-         * Declare int variables named a and b. Assign a the value 2. Assign b the value
-         * -1.
-         */
-
-        // Trace the next line of code in your journal BEFORE you run the code.
-        // Uncomment the next two lines to run them.
 
     }
 }
