@@ -1,5 +1,4 @@
 /*
-
       .o.       ooooooooo.          .oooooo.    .oooooo..o       .o.                  
      .888.      `888   `Y88.       d8P'  `Y8b  d8P'    `Y8      .888.                 
     .8"888.      888   .d88'      888          Y88bo.          .8"888.                
@@ -24,11 +23,12 @@ ooooooooo.   oooooooooooo oooooo     oooo ooooo oooooooooooo oooooo   oooooo    
  888  `88b.   888       o      `888'       888   888       o      `888'    `888'      
 o888o  o888o o888ooooood8       `8'       o888o o888ooooood8       `8'      `8'       
                                                                                       
-                                                                                      
+                                                                             
 [YOUR SIGNATURE HERE.]                                                                                      
 
 Author Name, Date, Time, AP CSA Topic 1.3 Review, v0.0
 */
+
 public class TopicOnePointThreeReview {
 
     public static void main(String[] args) {
@@ -38,10 +38,30 @@ public class TopicOnePointThreeReview {
          * value 2.0
          */
 
-        // Trace the next line in your journal BEFORE you run the code.
-        double z = ((x + y) / 1 - (y * 5) % 2);
-        System.out.println(z);
+        // Trace the next line of code in your journal BEFORE you run the code.
+        // Uncomment the next two lines to run them.
+        // double z = ((x + y) / 1 - (y * 5) % 2);
+        // System.out.println(z);
         // Was your answer correct? If not, re-trace the code from scratch.
+
+        /*
+         * Declare int variables named a and b. Assign a the value 2. Assign b the value
+         * -1.
+         */
+
+        // Trace the next line of code in your journal BEFORE you run the code.
+        // Uncomment the next two lines to run them.
+        // int c = ((a * 9) + ((8 % 3) / b));
+        // System.out.println(c);
+        // Was your answer correct? If not, re-trace the code from scratch.
+
+        /*
+         * Declare int variables named a and b. Assign a the value 2. Assign b the value
+         * -1.
+         */
+
+        // Trace the next line of code in your journal BEFORE you run the code.
+        // Uncomment the next two lines to run them.
 
     }
 }
